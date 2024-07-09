@@ -1,0 +1,8 @@
+#!/bin/sh
+OS=$(uname)
+
+case $OS in
+	Linux) cp -f mkconfig/config.mk.linux Makefile ;;
+	OpenBSD) cp -f mkconfig/config.mk.openbsd Makefile ;;
+	FreeBSD) cp -f mkconfig/config.mk.freebsd Makefile ;;
+esac
