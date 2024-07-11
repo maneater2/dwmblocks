@@ -1,5 +1,5 @@
 # DWMBlocks
-Status bar built for my build of [DWM](/maneater2/dwm). Compatible with Linux, OpenBSD, and FreeBSD, however I have not yet written the actual functionality for FreeBSD in the scripts yet.
+Status bar built for my build of [DWM](https://github.com/maneater2/dwm). Compatible with Linux, OpenBSD, and FreeBSD, however I have not yet written the actual functionality for FreeBSD in the scripts yet.
 
 # Compatible systems
 Linux, OpenBSD, FreeBSD
