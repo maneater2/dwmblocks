@@ -15,7 +15,7 @@ dwmblocks: dwmblocks.c blocks.h
 	${CC} -o dwmblocks dwmblocks.c ${CFLAGS} ${LDFLAGS}
 
 clean:
-	rm -f *.o *.gch dwmblocks
+	rm -f *.o *.gch dwmblocks .git
 
 install: dwmblocks
 	mkdir -p ${DESTDIR}${PREFIX}/bin
