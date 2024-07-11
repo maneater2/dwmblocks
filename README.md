@@ -23,5 +23,5 @@ Each module depends on a script of mine, specifically the following:
 - `sb-memory`
 - `sb-cputemp`
 - `sb-network`
-- `sb-battery`
+- `sb-battery`\
 All of these scripts can be found in my [dotfiles repo](https://github.com/maneater2/files). Simply download each script (or add your own), make them each executable, and place them somewhere in your $PATH.
